@@ -1,7 +1,8 @@
 <img align="center" src="https://s3.amazonaws.com/uploads.gofas.me/wp-content/uploads/2020/12/02165830/boleto_simples_gofas_whmcs.png">
 
 # Módulo Gofas Boleto Simples para WHMCS
-Boletos bancários via API [Boleto Simples](https://www.boletosimples.com.br/) diretamente do seu [WHMCS](https://gofas.net/gwh), de forma rápida e totalmente gratuita.
+Boletos bancários via API [Boleto Simples](https://www.boletosimples.com.br/) diretamente do seu [WHMCS](https://gofas.net/gwh).
+
 ## Capturas de Tela
 #### [Visualização da Fatura](https://s3.amazonaws.com/uploads.gofas.me/wp-content/uploads/2020/11/27155817/gofasboletosimples-fatura.gif)
 ![](https://s3.amazonaws.com/uploads.gofas.me/wp-content/uploads/2020/11/27155817/gofasboletosimples-fatura.gif)
