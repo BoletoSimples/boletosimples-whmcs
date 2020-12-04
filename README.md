@@ -47,7 +47,9 @@ Boletos bancários via API [Boleto Simples](https://www.boletosimples.com.br/) d
 
 ✓ Exibe(ou não) na fatura informações de desconto, taxas e demais cálculos
 
-✓ Confirmação de pagamento automática
+✓ Confirmação de pagamento automática via recebimento de notificações (callback / webhook)
+
+✓ Permite customizações sem alterar o código fonte do módulo (consulte a [wiki](https://github.com/BoletoSimples/boletosimples-whmcs/wiki))
 
 ✓ E mais...
 
