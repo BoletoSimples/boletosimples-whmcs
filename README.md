@@ -15,8 +15,6 @@ Boletos bancários via API [Boleto Simples](https://www.boletosimples.com.br/) d
 ![](https://s3.amazonaws.com/uploads.gofas.me/wp-content/uploads/2020/11/27161347/Nova_Fatura_-E-mail_gofasboletosimples.png)
 ## Principais Funcionalidades
 
-✓ Cobranças com seu CPF ou CNPJ, sem carteira de cobrança e sem burocracia
-
 ✓ Juros e multas após o vencimento do boleto
 
 ✓ 2ª via automática com valor atualizado (cálculo de multa e juros) ao acessar a fatura
@@ -27,7 +25,7 @@ Boletos bancários via API [Boleto Simples](https://www.boletosimples.com.br/) d
 
 ✓ Link direto para o boleto no email de faturas
 
-✓ Redireciona (ou não) para o boleto ao acessar a fatura
+✓ Redireciona para o boleto ao acessar a fatura (opcional)
 
 ✓ Dispensa configurações de campos personalizados (CPF/CNPJ)
 
