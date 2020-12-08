@@ -51,6 +51,9 @@ Boletos bancários via API [Boleto Simples](https://www.boletosimples.com.br/) d
 
 ✓ E mais...
 
+## Requisitos e compatibilidade
+* WHMCS versão 6 ou superior
+
 ## Instalação
 Ao descompactar o arquivo do download, observe que os diretórios foram distribuídos seguindo a mesma hierarquia dos diretórios padrão do WHMCS, o arquivo + pasta do módulo *Gateway* está localizado no diretório */modules/gateways/*. Siga os passos a seguir se precisar de mais
 detalhes:
