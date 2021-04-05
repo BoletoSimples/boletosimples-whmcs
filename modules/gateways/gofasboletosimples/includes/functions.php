@@ -71,6 +71,7 @@ function gbsp_charge($charge_url,$postfields) {
 		'customer_state'=>$postfields['customer_state'],
 		'customer_neighborhood'=>$postfields['customer_neighborhood'],
 		'control_number'=>$postfields['control_number'],
+		//'bank_billet_account_id'=>123 // ID da Carteira de Cobrança. Se não informado, usará a carteira padrão.
 		));
 	}
 	if((string)$postfields['endpoint'] === (string)'webhooks'){
